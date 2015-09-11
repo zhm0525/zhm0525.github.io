@@ -3,7 +3,7 @@ layout: post
 title: "Hello World"
 date: 2015-09-05 18:22:02 +0800
 comments: true
-categories: 
+categories: 写作 Octopress
 ---
 
 曾在各个地方写博客，包括一些提供博客的网站，也包括自己花钱购买vps来搭建。</br>
