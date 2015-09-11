@@ -2,9 +2,9 @@
 layout: page
 title: "关于"
 date: 2015-09-05 11:20
-comments: true
-sharing: true
-footer: true
+comments: false
+sharing: false
+footer: false
 ---
 ![zhanghuimin](/images/about_me.jpg)
 
