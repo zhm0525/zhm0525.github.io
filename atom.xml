@@ -1,94 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE HTML>
-<html>
-<head>
-	<meta charset="utf-8">
-	<title>张会民的主页</title>
-	<meta name="author" content="张会民">
-
-	
-	<meta name="description" content="最近一直没有写东西，忙当然是主要原因：目前所在的项目组人手有点紧张，赶上年前又不好招人，就靠几个能力参差不齐的同学坚持着，大家都非常疲劳和痛苦。好在现在已经开始进行面试了，也许会慢慢好点。也许吧，总得乐观的向着好的方向去想。不过能在6点或7点下班的美好愿望一年半载肯定还是无法实现…… 另一方面， &hellip;">
-	
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
-	<link href="/atom.xml" rel="alternate" title="张会民的主页" type="application/atom+xml">
-	<link rel="canonical" href="">
-	<link href="/favicon.png" rel="shortcut icon">
-	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-	<script async="true" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-	
-</head>
-
-
-<body>
-	<header id="header" class="inner"><h1><a href="/">张会民的主页</a></h1>
-<nav id="main-nav"><ul class="main">
-	<li><a href="/">博客</a></li>
-	<li><a href="/blog/archives">归档</a></li>
-	<li><a href="/about">关于</a></li>
-</ul>
-</nav>
-<nav id="mobile-nav">
-	<div class="alignleft menu">
-		<a class="button">Menu</a>
-		<div class="container"><ul class="main">
-	<li><a href="/">博客</a></li>
-	<li><a href="/blog/archives">归档</a></li>
-	<li><a href="/about">关于</a></li>
-</ul>
-</div>
-	</div>
-	<div class="alignright search">
-		<a class="button"></a>
-		<div class="container">
-			<form action="http://www.baidu.com/" method="get">
-				<input type="text" name="q" results="0">
-				<input type="hidden" name="q" value="site:zhm0525.github.io">
-			</form>
-		</div>
-	</div>
-</nav>
-<nav id="sub-nav" class="alignright">
-	<div class="social">
-		
-		
-		
-		
-		<a class="github" href="https://github.com/zhm0525" title="GitHub">GitHub</a>
-		
-        
-		
-		
-		
-		
-		
-		<a class="rss" href="/atom.xml" title="RSS">RSS</a>
-		
+  <title><![CDATA[张会民的主页]]></title>
+  <link href="http://zhm0525.github.io/atom.xml" rel="self"/>
+  <link href="http://zhm0525.github.io/"/>
+  <updated>2016-08-16T10:41:13+08:00</updated>
+  <id>http://zhm0525.github.io/</id>
+  <author>
+    <name><![CDATA[张会民]]></name>
     
-	</div>
-	<form class="search" action="http://www.baidu.com/" method="get">
-		<input class="alignright" type="text" name="q" results="0">
-		<input type="hidden" name="q" value="site:zhm0525.github.io">
-	</form>
-</nav>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
-</header>
-	
-		
-	
-	<div id="content" class="inner">
-
-
-    <article class="post">
-	<h2 class="title">
-		
-		<a href="/blog/2016/02/28/guan-fang-wen-dang-shi-zui-hao-de-jiao-cheng/">
-		
-			官方文档是最好的教程</a>
-	</h2>
-	<div class="entry-content">
-		<p>最近一直没有写东西，忙当然是主要原因：目前所在的项目组人手有点紧张，赶上年前又不好招人，就靠几个能力参差不齐的同学坚持着，大家都非常疲劳和痛苦。好在现在已经开始进行面试了，也许会慢慢好点。也许吧，总得乐观的向着好的方向去想。不过能在6点或7点下班的美好愿望一年半载肯定还是无法实现……</p>
+  
+  <entry>
+    <title type="html"><![CDATA[官方文档是最好的教程]]></title>
+    <link href="http://zhm0525.github.io/blog/2016/02/28/guan-fang-wen-dang-shi-zui-hao-de-jiao-cheng/"/>
+    <updated>2016-02-28T20:28:07+08:00</updated>
+    <id>http://zhm0525.github.io/blog/2016/02/28/guan-fang-wen-dang-shi-zui-hao-de-jiao-cheng</id>
+    <content type="html"><![CDATA[<p>最近一直没有写东西，忙当然是主要原因：目前所在的项目组人手有点紧张，赶上年前又不好招人，就靠几个能力参差不齐的同学坚持着，大家都非常疲劳和痛苦。好在现在已经开始进行面试了，也许会慢慢好点。也许吧，总得乐观的向着好的方向去想。不过能在6点或7点下班的美好愿望一年半载肯定还是无法实现……</p>
 
 <p>另一方面，最近在学习一些服务端的知识，包括如何配置Nginx，如何使用Django，包括用rest-framework来写一些API，实现一些静态的结构化数据和媒体文件的请求，还有一个简单账户系统的搭建。现在在研究用Scrapy框架来做爬虫。</p>
 
@@ -126,46 +56,21 @@
 这一阶段的学习遇到过两类问题让我们寻求了更多的帮助。一类问题是有几种框架可以选择去完成同一个任务，但是大同小异，各有优劣，遇到了选择困难，而显然之后的开发中会遇到不同的细节上的坑，在宏观对比中无法体现出来。这时候请教一些有经验的人就非常必要了。另一类问题是一些业务方案的完整和严谨性的问题，由于缺少经验很容易考虑遗漏一些问题，比如服务端的安全性问题，有经验的人的指导让我受益匪浅。</p>
 
 <p>不断学习不断发现自己的无知，技术的更新速度远超过自己学习的速度，当真是逆水行舟，不进则退。不能让自己越拉越远，只能抓紧时间不断努力了。朋友们一起加油！</p>
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-Feb 28th, 2016</div>
-	<div class="tags">
-
-
-	<a class='category' href='/blog/categories/xue-xi-fang-fa/'>学习方法</a>
-
-
-</div>
-	
-</div>
-</article>
-
-
-    <article class="post">
-	<h2 class="title">
-		
-		<a href="/blog/2015/12/02/rts/">
-		
-			写在《虚空之遗》全成就之后——致我曾玩过的那些RTS游戏</a>
-	</h2>
-	<div class="entry-content">
-		<p><img src="/images/rts/StarCraft2_compaign.jpg" alt="星际争霸2战役全成就" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[写在《虚空之遗》全成就之后——致我曾玩过的那些RTS游戏]]></title>
+    <link href="http://zhm0525.github.io/blog/2015/12/02/rts/"/>
+    <updated>2015-12-02T21:00:24+08:00</updated>
+    <id>http://zhm0525.github.io/blog/2015/12/02/rts</id>
+    <content type="html"><![CDATA[<p><img src="http://zhm0525.github.io/images/rts/StarCraft2_compaign.jpg" alt="星际争霸2战役全成就" /></p>
 
 <p>整个11月都没有写过东西，我并没有消失，而是去玩星际争霸2的最后一个资料篇《虚空之遗》去了。在光棍节游戏发布之后，第一时间通了战役看到了最终剧情。之后花了断断续续大概两周时间，拿到了全成就。盼了两年半的最终章，只花了两周时间就玩完了。主要原因是我不想把战线拉太长，还得一下班就惦记着去玩游戏，索性趁热打铁一口气玩完得了。至此，星际争霸2三部曲战役全部成就都完美的拿全了！至此，<strong>星际争霸</strong>这个跨度将近20年的游戏终于迎来了它的结局！这是一个时代的落幕，有人甚至说这是最后一款RTS游戏。确实RTS的辉煌时期已过，目前的市场不太容得下RTS游戏，更何况是暴雪这样的良心企业支持。感谢这些年来RTS游戏带给我的快乐，很想写一写曾经玩过的红警、沙丘、星际 ，来纪念一下我的青春。</p>
 
 <p>所谓<a href="http://baike.baidu.com/view/50785.htm"><strong>RTS游戏</strong></a>，即Real-Time Strategy Game，被翻译成即时战略游戏。玩家一般是作为一个指挥官，采集地图上的资源来建造军队，来消灭电脑或玩家控制的敌人，或是完成指定目标。我喜欢RTS游戏的原因，第一是因为这类游戏存在竞技性和策略性，需要和对手进行博弈，需要根据对手采取不同的战术采取相应的计划。第二是刺激过瘾节奏快，上帝视角指挥军队分分钟进入作战状态，需要手眼脑快速配合采取行动，整个神经绷得紧紧的。第三是，如果不是打战役剧情，一局游戏半个小时到一个小时就可以玩完了，不用惦记没有后顾之忧。也因为这几个特点，有人将RTS称为现代版的国际象棋。电子竞技比赛将竞技性和刺激性发展到了一个新高度。当然对我来讲，更多的还是娱乐为主。从家里有了第一台电脑以后，玩过的RTS游戏不胜枚举：包括星际、红警、沙丘、魔兽争霸、帝国时代等鼎鼎大名的，也包括国内很多三国题材的像赤壁（联想幸福之家带的）、傲世三国等，还有像玩具兵大战，猪兔大战等比较卡通的，另外像铁甲风暴也算在国内比较出名的吧！很多忘记了名字，或是因为当时不懂英文根本不知道叫什么名字。不过众多游戏中，最有情节的还是这里想说的红色警戒，沙丘和星际争霸系列。</p>
 
-<p><img src="/images/rts/RA95.jpg" alt="红警95" /></p>
+<p><img src="http://zhm0525.github.io/images/rts/RA95.jpg" alt="红警95" /></p>
 
 <h3>红警95</h3>
 
@@ -179,7 +84,7 @@ Feb 28th, 2016</div>
 
 <p>后续：在B站上还能找到几个红警95战役的视频，苏联第三关五条警犬追间谍被玩的很容易（<del>废话，玩得不好会发视频上来丢人吗？</del>）。我才知道原来正版的红警95是有真人拍摄的过场视频，也是有完整的故事的，只是当年都是5元盗版碟的压缩阉割版，从来没有见过这些。苏联的最后一关还是很有意思的，不过正如我之前说的那样，电塔作防御实在太不平衡，最后解决问题的还是一群大坦克。</p>
 
-<p><img src="/images/rts/RA2.jpg" alt="红警2" /></p>
+<p><img src="http://zhm0525.github.io/images/rts/RA2.jpg" alt="红警2" /></p>
 
 <h3>红警2</h3>
 
@@ -205,7 +110,7 @@ Feb 28th, 2016</div>
 
 <p>后续：看了一些评论的介绍，对红警2的PVP对战有了一些新的理解。红警2从本质上就不是为了PVP对战而设计的，所以平衡性并不是它所关心的第一要素（尽管我在之前说到过它在两个阵营中尽可能保持统一的建筑和兵种，这个当然，如果太不平衡就没法玩了），娱乐性才是。所以当看到网上很多红警2的PVP对战视频，基本上都是几分钟就结束了，高级兵种根本来不及出或者没有机会出。所以回想起我和朋友仅有的几次对战，都是前期的强压制战术，这就使得PVP非常之没有意思，还不如去和电脑对战呢。而之前的文字中没有提到过，对战中是可以选择电脑难度的，但是即使是残酷难度的电脑其实也一点都不残酷，原因是它们战术十分单一，缺乏变化。综上，红警2是一款能给大家带来快乐的游戏，但不是竞技游戏。</p>
 
-<p><img src="/images/rts/RA3.jpg" alt="红警3" /></p>
+<p><img src="http://zhm0525.github.io/images/rts/RA3.jpg" alt="红警3" /></p>
 
 <h3>红警3</h3>
 
@@ -223,7 +128,7 @@ Feb 28th, 2016</div>
 
 <p><strong>红警说完了，接下来说说沙丘。</strong></p>
 
-<p><img src="/images/rts/Dune2000.jpg" alt="沙丘2000" /></p>
+<p><img src="http://zhm0525.github.io/images/rts/Dune2000.jpg" alt="沙丘2000" /></p>
 
 <h3>沙丘2000</h3>
 
@@ -235,13 +140,13 @@ Feb 28th, 2016</div>
 
 <p>对于沙丘2000的战役，其实能说的并不多。每个家族有9关任务可以打，相比红警要少很多，而且基本上都是消灭掉所有敌人，下一关发现多了一个科技和兵种，还是消灭所有敌人，非常缺少创意。唯一印象深刻的时亚崔迪第五关，要求十分钟内占领对方的兵营，然而一开始没有主基地，只能建造兵营和轻型的战车，而面对的敌人是有主战坦克和防御堡垒的。最后很狼狈的用SL大法偷袭得手。后来我看攻略说地图的某一个位置有一个星港，占领之后会运送基地车，呃，游戏中有提示我这么做嘛？而且只有十分钟诶，建个采油厂都得一分多钟……奥多斯有两三关有盟友帮助，不过盟友实在是很菜，往往有几辆坦克就冲上去送死了，死多了还会反目来攻打你。怎么办？对！一开始拿墙把它围起来，等到它的兵已经没地方放了之后把墙拆了让他一大堆兵一起上！另外，在任务的最后两关可以占领敌人的一个外形酷似金字塔的建筑，那是帝国宫殿，占领之后可以建造它们的步兵——萨督卡！90元一个而且攻击超强，20个一队即可灭掉敌人的基地了！以上就是沙丘2000任务仅有的亮点了。</p>
 
-<p><img src="/images/rts/Dune2000_ground.jpg" alt="沙丘2000地砖的妙用" /></p>
+<p><img src="http://zhm0525.github.io/images/rts/Dune2000_ground.jpg" alt="沙丘2000地砖的妙用" /></p>
 
 <p>沙丘系列独有的一个特点是在建造建筑之前需要建造地砖，否则建筑会半血。其实对于一个要求快速对战的RTS而言，地砖是延误战斗时机的一个失败设计。不过后来发现其实地砖也是有发挥战术的潜力的。在红警或沙丘游戏中，建筑只能建造在附近有建筑的位置上，而地砖被算作建筑，即如果附近有地砖，你是可以在附近建造建筑的。地砖可以被打坏吗？当然可以，但是需要用Ctrl强制攻击，然而电脑并不会。于是一个战术便浮出水面：倘若在敌人的基地中有你的地砖，岂不是可以在敌人基地里建造自己的建筑了？而实现这种方式有两种，一种是把基地车放到敌人基地中展开再卖掉，这样有9块地砖是属于你的。另一种方式是占领敌人的一个建筑，然后迅速在附近放上一个地砖。两种方式都有一定的难度，然而只要成功了，基本上就赢了。比如奥多斯有一关是要占领敌人的星港，敌人防守很严密，但是有一块可建造区域是没有防守的，于是造一辆基地车开过去，用地砖一路建造延伸到对方的星港附近，造兵营和工程师，搞定！</p>
 
 <p>沙丘2000写到这里，因为它缺乏变化的兵种和单一的战术模式，基本上玩完了战役就厌烦了，也更加没有听说有谁在玩PVP。毕竟，在同一个时间段内，还有星际1和红警2，更别忘了还有帝国时代等游戏。沙丘，仅仅是心中的一个情节。</p>
 
-<p><img src="/images/rts/Dune3000.jpg" alt="沙丘3000" /></p>
+<p><img src="http://zhm0525.github.io/images/rts/Dune3000.jpg" alt="沙丘3000" /></p>
 
 <h3>沙丘3000</h3>
 
@@ -255,7 +160,7 @@ Feb 28th, 2016</div>
 
 <p>为沙丘系列结个尾吧。我为这个系列的游戏感到遗憾，它本该与红警齐名，却远没有达到同样的知名度，沙丘2000和3000都算不上一个娱乐性或者竞技性很赞的游戏。而且令人遗憾的是，在RTS游戏不断衰落的情况下，未来也很难有一款和沙丘有关的RTS游戏了。或许可以期待一下有一款其他类型的游戏，能重新复刻出这份经典！</p>
 
-<p><img src="/images/rts/StarCraft1.jpg" alt="星际争霸1" /></p>
+<p><img src="http://zhm0525.github.io/images/rts/StarCraft1.jpg" alt="星际争霸1" /></p>
 
 <h3>星际争霸1</h3>
 
@@ -271,7 +176,7 @@ Feb 28th, 2016</div>
 
 <p>星际1陪伴了我断断续续大概5年的时间，远超过其他任何游戏，我想这已经是对它最好的赞美了。</p>
 
-<p><img src="/images/rts/StarCraft2.jpg" alt="星际争霸2" /></p>
+<p><img src="http://zhm0525.github.io/images/rts/StarCraft2.jpg" alt="星际争霸2" /></p>
 
 <h3>星际争霸2</h3>
 
@@ -290,40 +195,15 @@ Feb 28th, 2016</div>
 <h3>尾声</h3>
 
 <p>这篇文章断断续续写了一周还多，最后写了这么多字我也很惊讶。关于游戏的文章自己很少写，因为自己总是以娱乐的心态玩游戏，没有做过一些较为深刻的思考。这一次借着这个文章的机会也看了很多论坛和知乎上的观点，受益匪浅。而在怀旧这些游戏的过程中，仿佛又重新回到了那时年少无忧无虑玩游戏的时光，然后感慨着再也回不去了。游戏给我们带来快乐，无论RTS还是其他类型。感谢暴雪和西木们，用这些经典的作品带我走过难忘的青春！</p>
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-Dec 2nd, 2015</div>
-	<div class="tags">
-
-
-	<a class='category' href='/blog/categories/dune/'>dune</a>, <a class='category' href='/blog/categories/game/'>game</a>, <a class='category' href='/blog/categories/redalert/'>redalert</a>, <a class='category' href='/blog/categories/rts/'>rts</a>, <a class='category' href='/blog/categories/starcraft/'>starcraft</a>
-
-
-</div>
-	
-</div>
-</article>
-
-
-    <article class="post">
-	<h2 class="title">
-		
-		<a href="/blog/2015/10/27/bi-mian-yi-uiwei-qu-dong-de-kai-fa/">
-		
-			避免以UI为驱动的开发</a>
-	</h2>
-	<div class="entry-content">
-		<p><img src="/images/blog/coffee-smartphone-desk-pen_800_1200.jpg" alt="避免以UI为驱动的开发" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[避免以UI为驱动的开发]]></title>
+    <link href="http://zhm0525.github.io/blog/2015/10/27/bi-mian-yi-uiwei-qu-dong-de-kai-fa/"/>
+    <updated>2015-10-27T20:13:44+08:00</updated>
+    <id>http://zhm0525.github.io/blog/2015/10/27/bi-mian-yi-uiwei-qu-dong-de-kai-fa</id>
+    <content type="html"><![CDATA[<p><img src="http://zhm0525.github.io/images/blog/coffee-smartphone-desk-pen_800_1200.jpg" alt="避免以UI为驱动的开发" /></p>
 
 <p>这也是我本人在初入职场时候犯的错误，现在算是一种反思。然而我发现很多人也在遇到同样的问题，多出在客户端或前端的新手工程师，在组织较为松散的小公司等。</p>
 
@@ -349,98 +229,48 @@ Dec 2nd, 2015</div>
 <p>项目流程当然需要改善，但由于项目组其他人很难留意到具体技术方面的问题，开发人员应该首先意识到合理的开发流程，并给项目组解释需要多久开发时间的原因和潜在的风险。</br></p>
 
 <p>应用程序基本上都是做了这三件事：数据的存储，数据的处理，以及数据的展示。在开发过程中要大体按照这样的顺序来进行。先有地基才有高楼，最后才是装修装饰，不可倒置。所以前期确定了数据模型之后，可以着手考虑数据持久化和缓存的问题，尤其图片和文件的问题，网络请求和数据解析的问题。另外，一些核心的模块和功能也应该早于界面来开发，例如定位模块，打点模块等。最后才是UI，因为简单，因为会被不断修改，因为即使出了问题，所有人都会看到告诉你需要修改。</br></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[台湾旅行照片]]></title>
+    <link href="http://zhm0525.github.io/blog/2015/10/20/tai-wan-lu-xing-zhao-pian/"/>
+    <updated>2015-10-20T13:47:28+08:00</updated>
+    <id>http://zhm0525.github.io/blog/2015/10/20/tai-wan-lu-xing-zhao-pian</id>
+    <content type="html"><![CDATA[<p>十一期间在台湾旅行的一些风景照片。</p>
 
-		
-		
-	</div>
+<p><img src="http://zhm0525.github.io/images/taiwan/taiwan_0.jpg" alt="0" /></p>
 
+<p><img src="http://zhm0525.github.io/images/taiwan/taiwan_1.jpg" alt="1" /></p>
 
-<div class="meta">
-	<div class="date">
+<p><img src="http://zhm0525.github.io/images/taiwan/taiwan_2.jpg" alt="2" /></p>
 
+<p><img src="http://zhm0525.github.io/images/taiwan/taiwan_3.jpg" alt="3" /></p>
 
+<p><img src="http://zhm0525.github.io/images/taiwan/taiwan_4.jpg" alt="4" /></p>
 
+<p><img src="http://zhm0525.github.io/images/taiwan/taiwan_5.jpg" alt="5" /></p>
 
-Oct 27th, 2015</div>
-	<div class="tags">
+<p><img src="http://zhm0525.github.io/images/taiwan/taiwan_6.jpg" alt="6" /></p>
 
+<p><img src="http://zhm0525.github.io/images/taiwan/taiwan_7.jpg" alt="7" /></p>
 
-	<a class='category' href='/blog/categories/android/'>android</a>, <a class='category' href='/blog/categories/ios/'>ios</a>, <a class='category' href='/blog/categories/xiang-mu-guan-li/'>项目管理</a>
+<p><img src="http://zhm0525.github.io/images/taiwan/taiwan_8.jpg" alt="8" /></p>
 
+<p><img src="http://zhm0525.github.io/images/taiwan/taiwan_9.jpg" alt="9" /></p>
 
-</div>
-	
-</div>
-</article>
+<p><img src="http://zhm0525.github.io/images/taiwan/taiwan_10.jpg" alt="10" /></p>
 
-
-    <article class="post">
-	<h2 class="title">
-		
-		<a href="/blog/2015/10/20/tai-wan-lu-xing-zhao-pian/">
-		
-			台湾旅行照片</a>
-	</h2>
-	<div class="entry-content">
-		<p>十一期间在台湾旅行的一些风景照片。</p>
-
-<p><img src="/images/taiwan/taiwan_0.jpg" alt="0" /></p>
-
-<p><img src="/images/taiwan/taiwan_1.jpg" alt="1" /></p>
-
-<p><img src="/images/taiwan/taiwan_2.jpg" alt="2" /></p>
-
-<p><img src="/images/taiwan/taiwan_3.jpg" alt="3" /></p>
-
-<p><img src="/images/taiwan/taiwan_4.jpg" alt="4" /></p>
-
-<p><img src="/images/taiwan/taiwan_5.jpg" alt="5" /></p>
-
-<p><img src="/images/taiwan/taiwan_6.jpg" alt="6" /></p>
-
-<p><img src="/images/taiwan/taiwan_7.jpg" alt="7" /></p>
-
-<p><img src="/images/taiwan/taiwan_8.jpg" alt="8" /></p>
-
-<p><img src="/images/taiwan/taiwan_9.jpg" alt="9" /></p>
-
-<p><img src="/images/taiwan/taiwan_10.jpg" alt="10" /></p>
-
-<p><img src="/images/taiwan/taiwan_11.jpg" alt="11" /></p>
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-Oct 20th, 2015</div>
-	<div class="tags">
-
-
-	<a class='category' href='/blog/categories/tai-wan/'>台湾</a>, <a class='category' href='/blog/categories/lu-xing/'>旅行</a>, <a class='category' href='/blog/categories/zhao-pian/'>照片</a>, <a class='category' href='/blog/categories/sheng-huo/'>生活</a>
-
-
-</div>
-	
-</div>
-</article>
-
-
-    <article class="post">
-	<h2 class="title">
-		
-		<a href="/blog/2015/09/14/comparison-method-violates-its-general-contract/">
-		
-			Comparison Method Violates Its General Contract</a>
-	</h2>
-	<div class="entry-content">
-		<p>排序是算法学习中最重要的算法之一，不过使用Java等面向对象的语言之后很少再自己实现排序了，只有在面试的时候才用的上了，作为对基础知识的考查。曾经在面试百度的时候被要求立即写一个归并排序并编译通过运行正确，还好顺利过关。</p>
+<p><img src="http://zhm0525.github.io/images/taiwan/taiwan_11.jpg" alt="11" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Comparison method violates its general contract]]></title>
+    <link href="http://zhm0525.github.io/blog/2015/09/14/comparison-method-violates-its-general-contract/"/>
+    <updated>2015-09-14T16:19:03+08:00</updated>
+    <id>http://zhm0525.github.io/blog/2015/09/14/comparison-method-violates-its-general-contract</id>
+    <content type="html"><![CDATA[<p>排序是算法学习中最重要的算法之一，不过使用Java等面向对象的语言之后很少再自己实现排序了，只有在面试的时候才用的上了，作为对基础知识的考查。曾经在面试百度的时候被要求立即写一个归并排序并编译通过运行正确，还好顺利过关。</p>
 
 <p>Java中直接使用Collections.sort(List<T> list)方法或Arrays.sort(Object[] array)来实现排序。对于数组中的元素如何比较，有两种方式：一种是在类中重写compareTo()方法，一种是在调用sort方法的时候传入一个Comparator<T>的对象。若没有实现，会抛出ClassCastException错误。比较基础，这里不展开了。</p>
 
@@ -450,40 +280,15 @@ Oct 20th, 2015</div>
 * 首先，这是JDK6到JDK7的一个兼容性问题，在JDK6中没有问题，但是在JDK7中，排序算法做了修改，必须要满足比较的<a href="http://docs.oracle.com/javase/7/docs/api/java/util/Comparator.html#compare(T,%20T)">约束条件</a>，不然则会抛出此异常。
 * 在我的代码中，某种极端情况下会使A，B，C三个元素满足A>B，A=C，B=C的条件，这违反了约束条件。另一个会违反约束条件的例子为 return x > y ? 1 : -1;相信您可以看明白。
 所以结论是，当抛出这个异常的时候，仔细检查Comparator中的代码，保证不能违反约束条件。</p>
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-Sep 14th, 2015</div>
-	<div class="tags">
-
-
-	<a class='category' href='/blog/categories/exception/'>exception</a>, <a class='category' href='/blog/categories/java/'>java</a>, <a class='category' href='/blog/categories/sort/'>sort</a>
-
-
-</div>
-	
-</div>
-</article>
-
-
-    <article class="post">
-	<h2 class="title">
-		
-		<a href="/blog/2015/09/05/hello-world/">
-		
-			Hello World</a>
-	</h2>
-	<div class="entry-content">
-		<p>曾在各个地方写博客，包括一些提供博客的网站，也包括自己花钱购买vps来搭建。</br></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://zhm0525.github.io/blog/2015/09/05/hello-world/"/>
+    <updated>2015-09-05T18:22:02+08:00</updated>
+    <id>http://zhm0525.github.io/blog/2015/09/05/hello-world</id>
+    <content type="html"><![CDATA[<p>曾在各个地方写博客，包括一些提供博客的网站，也包括自己花钱购买vps来搭建。</br></p>
 
 <p>这个个人主页搭建在Github上，使用了Octopress框架.另外我绑定了自己名字的域名（很庆幸这个com后缀的域名没有落入别人的手里）。除了域名需要一年几十块，再没有别的需要花钱的地方了。没有什么意外的话，我的个人页面将长期以这种方式存在。</br></p>
 
@@ -492,53 +297,7 @@ Sep 14th, 2015</div>
 <p>对于写作，我抱有一种十分敬畏的态度。创造与分享是十分美好并值得持续不断去努力的事情。我很尊敬那些能保持写作习惯的人，并且这种坚持对个人的提高也是显而易见的。对于程序员来说，一来写代码是一种逻辑的写作，与文字写作本身就有紧密的关系。二来计算机技术本身发展太快，包含内容太多，写作对于自己技术的总结和积累十分必要。三来，如果技术的分享能帮助到别人，确实是一件很快乐的事情。我的个人主页，会记录一些我所想的事情，会包括技术，也会有其他有趣的事情。</br></p>
 
 <p>对于这个网站本身，也有很多有趣的事情可以研究下去，我会为之不断努力。</br></p>
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-Sep 5th, 2015</div>
-	<div class="tags">
-
-
-	<a class='category' href='/blog/categories/octopress/'>octopress</a>, <a class='category' href='/blog/categories/xie-zuo/'>写作</a>
-
-
-</div>
-	
-</div>
-</article>
-
-<nav id="pagenavi">
-    
-    
-    <div class="center"><a href="/blog/archives">归档</a></div>
-</nav>
-</div>
-	<footer id="footer" class="inner">Copyright &copy; 2016
-
-    张会民
-
-</footer>
-	<script src="/javascripts/slash.js"></script>
-<script src="/javascripts/jquery.fancybox.pack.js"></script>
-<script type="text/javascript">
-(function($){
-	$('.fancybox').fancybox();
-})(jQuery);
-</script> <!-- Delete or comment this line to disable Fancybox -->
-
-
-
-
-
-
-</body>
-</html>
+]]></content>
+  </entry>
+  
+</feed>
